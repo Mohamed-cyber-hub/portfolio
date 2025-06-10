@@ -2,7 +2,7 @@ import { FaGlobe, FaHatCowboy, FaPen } from "react-icons/fa";
 import { SiProgress, SiAntdesign } from "react-icons/si";
 
 import Card from './Card';
-import Title from '../layouts/Title.jsX';
+import Title from '../layouts/Title.jsx';
 
 const Features = () => {
   return (
